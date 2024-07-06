@@ -76,7 +76,7 @@ def test(message):
         params = {
             "text": keyword,
             "area": 1,  #id Города (1 - Москва и так далее по списку (2 - Питер и тд))
-            "per_page": 5,  #Количество найденных вакансий в ответе
+            "per_page": 5,  #Количество найденных вакансий в ответее
         }
         headers = {
             "User-Agent": "Your User Agent",  #Replace with your User-Agent header
