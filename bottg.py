@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import requests
 
-TOKEN = '7013433945:AAE9ynLfqTG5yGn_85D-puOpVV93RBVx9KI'  #Токен телеграмм бота (Скрыт)
+TOKEN = '*****'  #Токен телеграмм бота (Скрыт)
 
 bot = telebot.TeleBot(TOKEN)
 
