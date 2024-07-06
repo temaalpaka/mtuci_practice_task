@@ -16,5 +16,5 @@ cursor = conn.cursor()
 cursor.execute(sql)
 
 res = cursor.fetchall()
-
+#е
 conn.close()
